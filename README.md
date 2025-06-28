@@ -88,8 +88,7 @@
 
 ## 🎒 Образование
 [<img src="/Andersen.png" width="280px" hspace="10px" alt="Сертификат Andersen»">](https://raw.githubusercontent.com/Ildar-Razyev-QA/Ildar-Razyev-QA/refs/heads/main/Andersen.png)
-[<img src="/Andersen.png" width="280px" hspace="10px" alt="Сертификат Andersen»">](https://raw.githubusercontent.com/Ildar-Razyev-QA/Ildar-Razyev-QA/refs/heads/main/Sertifikat_J_rus.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/Sertifikat_J_rus.png" width="280px" hspace="10px" alt="Сертификат Andersen»">](https://raw.githubusercontent.com/Ildar-Razyev-QA/Ildar-Razyev-QA/refs/heads/main/Sertifikat_J_rus.png)
 
 <br>
 <br>
