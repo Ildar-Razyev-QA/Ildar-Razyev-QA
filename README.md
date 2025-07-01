@@ -76,15 +76,15 @@
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
 
-<br>
+<!--<br>
 
-<!-- ## 🪴 Практика и стажировка
+ ## 🪴 Практика и стажировка
 [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат  ТЕСТ»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
 [<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат  ТЕСТ»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
 [<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат ТЕСТ»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от ТЕСТ»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)--> 
+[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от ТЕСТ»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
 
-<br>
+<br> --> 
 
 ## 🎒 Образование
 [<img src="/Sertifikat_J_rus.png" width="280px" hspace="10px" alt="Сертификат Andersen»">](https://raw.githubusercontent.com/Ildar-Razyev-QA/Ildar-Razyev-QA/refs/heads/main/Sertifikat_J_rus.png)
